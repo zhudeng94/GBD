@@ -1,0 +1,87 @@
+paf_id,type,name,short_name,enabled
+169,risk,All risk factors,All risk factors,True
+202,risk,Environmental/occupational risks,Environmental,True
+82,risk,"Unsafe water, sanitation, and handwashing",WaSH,True
+83,risk,Unsafe water source,Unsafe water,True
+84,risk,Unsafe sanitation,Unsafe sanitation,True
+238,risk,No access to handwashing facility,Handwashing,True
+85,risk,Air pollution,Air pollution,True
+86,risk,Ambient particulate matter pollution,Ambient particulate matter,True
+87,risk,Household air pollution from solid fuels,Household air pollution,True
+88,risk,Ambient ozone pollution,Ozone,True
+89,risk,Other environmental risks,Other environmental,True
+90,risk,Residential radon,Radon,True
+91,risk,Lead exposure,Lead,True
+126,risk,Occupational risks,Occupational risks,True
+127,risk,Occupational carcinogens,Occupational carcinogens,True
+150,risk,Occupational exposure to asbestos,Occupational asbestos,True
+151,risk,Occupational exposure to arsenic,Occupational arsenic,True
+152,risk,Occupational exposure to benzene,Occupational benzene,True
+153,risk,Occupational exposure to beryllium,Occupational beryllium,True
+154,risk,Occupational exposure to cadmium,Occupational cadmium,True
+155,risk,Occupational exposure to chromium,Occupational chromium,True
+156,risk,Occupational exposure to diesel engine exhaust,Occupational diesel,True
+157,risk,Occupational exposure to secondhand smoke,Occupational SHS,True
+158,risk,Occupational exposure to formaldehyde,Occupational formaldehyde,True
+159,risk,Occupational exposure to nickel,Occupational nickel,True
+160,risk,Occupational exposure to polycyclic aromatic hydrocarbons,Occupational PAH,True
+161,risk,Occupational exposure to silica,Occupational silica,True
+162,risk,Occupational exposure to sulfuric acid,Occupational sulfuric acid,True
+237,risk,Occupational exposure to trichloroethylene,Occupational trichloroethylene,True
+128,risk,Occupational asthmagens,Occupational asthmagens,True
+129,risk,"Occupational particulate matter, gases, and fumes",Occupational particulates,True
+130,risk,Occupational noise,Occupational noise,True
+132,risk,Occupational ergonomic factors,Occupational ergonomic,True
+203,risk,Behavioral risks,Behavioral,True
+92,risk,Child and maternal malnutrition,Malnutrition,True
+93,risk,Suboptimal breastfeeding,Suboptimal breastfeeding,True
+136,risk,Non-exclusive breastfeeding,Non-exclusive breastfeeding,True
+137,risk,Discontinued breastfeeding,Discontinued breastfeeding,True
+239,risk,Child growth failure,Child growth failure,True
+94,risk,Child underweight,Child underweight,True
+240,risk,Child wasting,Child wasting,True
+241,risk,Child stunting,Child stunting,True
+339,risk,Low birth weight and short gestation,Low birth weight & short gestation,True
+334,risk,Short gestation for birth weight,Short gestation,True
+335,risk,Low birth weight for gestation,Low birth weight,True
+95,risk,Iron deficiency,Iron deficiency,True
+96,risk,Vitamin A deficiency,Vitamin A deficiency,True
+97,risk,Zinc deficiency,Zinc deficiency,True
+98,risk,Tobacco,Tobacco,True
+99,risk,Smoking,Smoking,True
+332,risk,Chewing tobacco,Chewing tobacco,True
+100,risk,Secondhand smoke,Secondhand smoke,True
+101,risk,Alcohol and drug use,Alcohol & drug use,True
+102,risk,Alcohol use,Alcohol use,True
+103,risk,Drug use,Drug use,True
+140,risk,Suicide due to drug use disorders,Drug use suicide,True
+110,risk,Dietary risks,Dietary risks,True
+111,risk,Diet low in fruits,Low fruit,True
+112,risk,Diet low in vegetables,Low vegetables,True
+333,risk,Diet low in legumes,Low legumes,True
+113,risk,Diet low in whole grains,Low whole grains,True
+114,risk,Diet low in nuts and seeds,Low nuts and seeds,True
+115,risk,Diet low in milk,Low milk,True
+116,risk,Diet high in red meat,High red meat,True
+117,risk,Diet high in processed meat,High processed meat,True
+118,risk,Diet high in sugar-sweetened beverages,High sweetened beverages,True
+119,risk,Diet low in fiber,Low fiber,True
+147,risk,Diet low in calcium,Low calcium,True
+121,risk,Diet low in seafood omega-3 fatty acids,Low omega-3,True
+122,risk,Diet low in polyunsaturated fatty acids,Low PUFA,True
+123,risk,Diet high in trans fatty acids,High trans fat,True
+124,risk,Diet high in sodium,High sodium,True
+133,risk,Sexual abuse and violence,Sexual abuse & violence,True
+134,risk,Childhood sexual abuse,Childhood sexual abuse,True
+244,risk,Childhood sexual abuse against females,Childhood sexual abuse (females),True
+245,risk,Childhood sexual abuse against males,Childhood sexual abuse (males),True
+135,risk,Intimate partner violence,Intimate partner violence,True
+167,risk,Intimate partner violence (exposure approach),IPV (exposure),True
+125,risk,Low physical activity,Low physical activity,True
+104,risk,Metabolic risks,Metabolic,True
+105,risk,High fasting plasma glucose,High fasting plasma glucose,True
+106,risk,High total cholesterol,High total cholesterol,True
+107,risk,High systolic blood pressure,High blood pressure,True
+108,risk,High body-mass index,High body-mass index,True
+109,risk,Low bone mineral density,Low bone mineral density,True
+341,risk,Impaired kidney function,Impaired kidney function,True

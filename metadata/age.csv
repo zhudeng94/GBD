@@ -1,0 +1,32 @@
+age_id,name,short_name,sort,plot,type
+2,0-6 days,EN,2,1,['specific']
+3,7-27 days,LN,3,1,['specific']
+4,28-364 days,PN,4,1,['specific']
+5,1-4 years,1,5,1,['specific']
+6,5-9 years,5,6,1,['specific']
+7,10-14 years,10,7,1,['specific']
+8,15-19 years,15,8,1,['specific']
+9,20-24 years,20,9,1,['specific']
+10,25-29 years,25,10,1,['specific']
+11,30-34 years,30,11,1,['specific']
+12,35-39 years,35,12,1,['specific']
+13,40-44 years,40,13,1,['specific']
+14,45-49 years,45,14,1,['specific']
+15,50-54 years,50,15,1,['specific']
+16,55-59 years,55,16,1,['specific']
+17,60-64 years,60,17,1,['specific']
+18,65-69 years,65,18,1,['specific']
+19,70-74 years,70,19,1,['specific']
+20,75-79 years,75,20,1,['specific']
+30,80-84,80,21,1,['specific']
+31,85-89,85,22,1,['specific']
+32,90-94,90,23,1,['specific']
+235,95+ years,95+,95,1,['specific']
+1,<5 years,<5,22,,"['basic', 'advanced', 'aggregate']"
+21,80+ years,80+,26.5,,"['basic', 'advanced', 'aggregate']"
+22,All ages,All,1,,"['basic', 'advanced', 'aggregate']"
+23,5-14 years,5-14,23,,"['basic', 'advanced', 'aggregate']"
+24,15-49 years,15-49,24,,"['basic', 'advanced', 'aggregate']"
+25,50-69 years,50-69,25,,"['basic', 'advanced', 'aggregate']"
+27,Age-standardized,Age-standardized,27,,"['basic', 'advanced', 'aggregate']"
+28,<1 year,<1,0,,['aggregate']

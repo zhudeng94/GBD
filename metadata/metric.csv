@@ -1,0 +1,5 @@
+metric_id,sort,name,short_name,units,charts,display,plot,advanced,direction
+29,21,Summary exposure value,SEV,[3],"['map', 'plot', 'line', 'arrow', 'dotogram']",['sev'],"['year', 'age', 'sex', 'risk', 'location']",True,
+1,1,Deaths,Deaths,"[1, 4, 3, 2]",,,,False,
+4,2,YLLs (Years of Life Lost),YLLs,"[1, 4, 3, 2]",,,,False,
+26,28,Life expectancy,LE,[5],"['map', 'plot', 'line', 'decomp']",['le'],"['year', 'age', 'sex', 'location']",True,+

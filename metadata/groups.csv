@@ -1,0 +1,5 @@
+group_id,name,type,disabled
+g-1,GBD super regions,superregion,
+g-2,GBD regions,region,
+g-3,GBD subnational,admin0,True
+,Custom groups,,True

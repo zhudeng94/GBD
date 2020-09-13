@@ -1,0 +1,6 @@
+display_id,name,short_name,advanced,enabled
+cause,Cause of death or injury,Cause,False,True
+risk,Risk factor,Risk,False,True
+etiology,Etiology,Etiology,True,False
+impairment,Impairment,Impairment,True,False
+injury,Injuries by nature,Injuries by nature,True,False

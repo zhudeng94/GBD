@@ -1,0 +1,12 @@
+chart_id,name,short_name,sort
+map,Map,Map,1
+treemap,Treemap (causes),Treemap,2
+sbar,Risks by Cause,Risks by Cause,3
+arrow,Arrow diagram,Arrow diagram,4
+xmas,Pyramid,Pyramid,5
+scol,Patterns,Patterns,6
+heatmap,Heat map,Heat map,8
+plot,Plot,Plot,9
+line,Line,Line,10
+decomp,Decomposition,Decomposition,11
+dotogram,Dotogram,Dotogram,12

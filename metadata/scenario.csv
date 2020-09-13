@@ -1,0 +1,6 @@
+scenario_id,name
+1,Past
+2,Reference
+3,Worse
+4,Better
+diff,Difference (Worse - Better)

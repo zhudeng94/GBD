@@ -1,0 +1,8 @@
+unit_id,sort,name,short_name
+1,1,Number,#
+2,3,Percent,%
+3,2,Rate,Rate
+4,4,Rank,Rank
+5,5,Years,Years
+8,8,Probability of death,Probability of death
+9,9,Index score,index score

@@ -1,0 +1,226 @@
+location_id,type,name,medium_name,short_name,enabled
+custom,custom,Custom regions,Custom regions,Custom regions,False
+1,global,Global,Global,Earth,True
+64,superregion,High-income,High-income,HI,True
+100,region,High-income North America,High-income North America,HI N Am,True
+101,admin0,Canada,Canada,Canada,True
+349,nonsovereign,Greenland,Greenland,Greenland,True
+102,admin0,United States,United States,USA,True
+70,region,Australasia,Australasia,Australasia,True
+71,admin0,Australia,Australia,Australia,True
+72,admin0,New Zealand,New Zealand,New Zealand,True
+65,region,High-income Asia Pacific,High-income Asia Pacific,HI Asia Pac,True
+66,admin0,Brunei,Brunei,Brunei,True
+67,admin0,Japan,Japan,Japan,True
+69,admin0,Singapore,Singapore,Singapore,True
+68,admin0,South Korea,South Korea,S Korea,True
+73,region,Western Europe,Western Europe,W Europe,True
+74,admin0,Andorra,Andorra,Andorra,True
+75,admin0,Austria,Austria,Austria,True
+76,admin0,Belgium,Belgium,Belgium,True
+77,admin0,Cyprus,Cyprus,Cyprus,True
+78,admin0,Denmark,Denmark,Denmark,True
+79,admin0,Finland,Finland,Finland,True
+80,admin0,France,France,France,True
+81,admin0,Germany,Germany,Germany,True
+82,admin0,Greece,Greece,Greece,True
+83,admin0,Iceland,Iceland,Iceland,True
+84,admin0,Ireland,Ireland,Ireland,True
+85,admin0,Israel,Israel,Israel,True
+86,admin0,Italy,Italy,Italy,True
+87,admin0,Luxembourg,Luxembourg,Luxembourg,True
+88,admin0,Malta,Malta,Malta,True
+89,admin0,Netherlands,Netherlands,Netherlands,True
+90,admin0,Norway,Norway,Norway,True
+91,admin0,Portugal,Portugal,Portugal,True
+92,admin0,Spain,Spain,Spain,True
+93,admin0,Sweden,Sweden,Sweden,True
+94,admin0,Switzerland,Switzerland,Switzerland,True
+95,admin0,United Kingdom,United Kingdom,UK,True
+96,region,Southern Latin America,Southern Latin America,S Latin Am,True
+97,admin0,Argentina,Argentina,Argentina,True
+98,admin0,Chile,Chile,Chile,True
+99,admin0,Uruguay,Uruguay,Uruguay,True
+31,superregion,"Central Europe, Eastern Europe, and Central Asia","Central Europe, Eastern Europe, and Central Asia",C & E Europe & C Asia,True
+56,region,Eastern Europe,Eastern Europe,E Europe,True
+57,admin0,Belarus,Belarus,Belarus,True
+58,admin0,Estonia,Estonia,Estonia,True
+59,admin0,Latvia,Latvia,Latvia,True
+60,admin0,Lithuania,Lithuania,Lithuania,True
+61,admin0,Moldova,Moldova,Moldova,True
+62,admin0,Russian Federation,Russian Federation,Russian Federation,True
+63,admin0,Ukraine,Ukraine,Ukraine,True
+42,region,Central Europe,Central Europe,C Europe,True
+43,admin0,Albania,Albania,Albania,True
+44,admin0,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia,True
+45,admin0,Bulgaria,Bulgaria,Bulgaria,True
+46,admin0,Croatia,Croatia,Croatia,True
+47,admin0,Czech Republic,Czech Republic,Czech,True
+48,admin0,Hungary,Hungary,Hungary,True
+49,admin0,Macedonia,Macedonia,Macedonia,True
+50,admin0,Montenegro,Montenegro,Montenegro,True
+51,admin0,Poland,Poland,Poland,True
+52,admin0,Romania,Romania,Romania,True
+53,admin0,Serbia,Serbia,Serbia,True
+54,admin0,Slovakia,Slovakia,Slovakia,True
+55,admin0,Slovenia,Slovenia,Slovenia,True
+32,region,Central Asia,Central Asia,C Asia,True
+33,admin0,Armenia,Armenia,Armenia,True
+34,admin0,Azerbaijan,Azerbaijan,Azerbaijan,True
+35,admin0,Georgia,Georgia,Georgia,True
+36,admin0,Kazakhstan,Kazakhstan,Kazakhstan,True
+37,admin0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,True
+38,admin0,Mongolia,Mongolia,Mongolia,True
+39,admin0,Tajikistan,Tajikistan,Tajikistan,True
+40,admin0,Turkmenistan,Turkmenistan,Turkmenistan,True
+41,admin0,Uzbekistan,Uzbekistan,Uzbekistan,True
+103,superregion,Latin America and Caribbean,Latin America and Caribbean,Latin Am & Caribbean,True
+124,region,Central Latin America,Central Latin America,Central Latin Am,True
+125,admin0,Colombia,Colombia,Colombia,True
+126,admin0,Costa Rica,Costa Rica,Costa Rica,True
+127,admin0,El Salvador,El Salvador,El Salvador,True
+128,admin0,Guatemala,Guatemala,Guatemala,True
+129,admin0,Honduras,Honduras,Honduras,True
+130,admin0,Mexico,Mexico,Mexico,True
+131,admin0,Nicaragua,Nicaragua,Nicaragua,True
+132,admin0,Panama,Panama,Panama,True
+133,admin0,Venezuela,Venezuela,Venezuela,True
+120,region,Andean Latin America,Andean Latin America,Andean Latin Am,True
+121,admin0,Bolivia,Bolivia,Bolivia,True
+122,admin0,Ecuador,Ecuador,Ecuador,True
+123,admin0,Peru,Peru,Peru,True
+104,region,Caribbean,Caribbean,Caribbean,True
+105,admin0,Antigua and Barbuda,Antigua and Barbuda,Antigua,True
+106,admin0,The Bahamas,The Bahamas,Bahamas,True
+107,admin0,Barbados,Barbados,Barbados,True
+108,admin0,Belize,Belize,Belize,True
+305,nonsovereign,Bermuda,Bermuda,Bermuda,True
+109,admin0,Cuba,Cuba,Cuba,True
+110,admin0,Dominica,Dominica,Dominica,True
+111,admin0,Dominican Republic,Dominican Republic,Dominican Rep,True
+112,admin0,Grenada,Grenada,Grenada,True
+113,admin0,Guyana,Guyana,Guyana,True
+114,admin0,Haiti,Haiti,Haiti,True
+115,admin0,Jamaica,Jamaica,Jamaica,True
+385,nonsovereign,Puerto Rico,Puerto Rico,Puerto Rico,True
+116,admin0,Saint Lucia,Saint Lucia,St Lucia,True
+117,admin0,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,St Vincent,True
+118,admin0,Suriname,Suriname,Suriname,True
+119,admin0,Trinidad and Tobago,Trinidad and Tobago,Trinidad Tobago,True
+422,nonsovereign,"Virgin Islands, U.S.","Virgin Islands, U.S.",Virgin Isl US,True
+134,region,Tropical Latin America,Tropical Latin America,Trop Latin Am,True
+135,admin0,Brazil,Brazil,Brazil,True
+136,admin0,Paraguay,Paraguay,Paraguay,True
+4,superregion,"Southeast Asia, East Asia, and Oceania","Southeast Asia, East Asia, and Oceania",SE & E Asia & Oceania,True
+5,region,East Asia,East Asia,E Asia,True
+6,admin0,China,China,China,True
+7,admin0,North Korea,North Korea,N Korea,True
+8,admin0,Taiwan (Province of China),Taiwan (Province of China),Taiwan (Province of China),True
+9,region,Southeast Asia,Southeast Asia,SE Asia,True
+10,admin0,Cambodia,Cambodia,Cambodia,True
+11,admin0,Indonesia,Indonesia,Indonesia,True
+12,admin0,Laos,Laos,Laos,True
+13,admin0,Malaysia,Malaysia,Malaysia,True
+14,admin0,Maldives,Maldives,Maldives,True
+183,admin0,Mauritius,Mauritius,Mauritius,True
+15,admin0,Myanmar,Myanmar,Myanmar,True
+16,admin0,Philippines,Philippines,Philippines,True
+17,admin0,Sri Lanka,Sri Lanka,Sri Lanka,True
+186,admin0,Seychelles,Seychelles,Seychelles,True
+18,admin0,Thailand,Thailand,Thailand,True
+19,admin0,Timor-Leste,Timor-Leste,Timor-Leste,True
+20,admin0,Vietnam,Vietnam,Vietnam,True
+21,region,Oceania,Oceania,Oceania,True
+298,nonsovereign,American Samoa,American Samoa,Am Samoa,True
+25,admin0,Federated States of Micronesia,Federated States of Micronesia,Micronesia,True
+22,admin0,Fiji,Fiji,Fiji,True
+351,nonsovereign,Guam,Guam,Guam,True
+23,admin0,Kiribati,Kiribati,Kiribati,True
+24,admin0,Marshall Islands,Marshall Islands,Marshall,True
+376,nonsovereign,Northern Mariana Islands,Northern Mariana Islands,N Mariana,True
+26,admin0,Papua New Guinea,Papua New Guinea,PNG,True
+27,admin0,Samoa,Samoa,Samoa,True
+28,admin0,Solomon Islands,Solomon Islands,Solomon,True
+29,admin0,Tonga,Tonga,Tonga,True
+30,admin0,Vanuatu,Vanuatu,Vanuatu,True
+137,superregion,North Africa and Middle East,North Africa and Middle East,MENA,True
+138,region,North Africa and Middle East,North Africa and Middle East,MENA,True
+160,admin0,Afghanistan,Afghanistan,Afghanistan,True
+139,admin0,Algeria,Algeria,Algeria,True
+140,admin0,Bahrain,Bahrain,Bahrain,True
+141,admin0,Egypt,Egypt,Egypt,True
+142,admin0,Iran,Iran,Iran,True
+143,admin0,Iraq,Iraq,Iraq,True
+144,admin0,Jordan,Jordan,Jordan,True
+145,admin0,Kuwait,Kuwait,Kuwait,True
+146,admin0,Lebanon,Lebanon,Lebanon,True
+147,admin0,Libya,Libya,Libya,True
+148,admin0,Morocco,Morocco,Morocco,True
+149,admin0,Palestine,Palestine,Palestine,True
+150,admin0,Oman,Oman,Oman,True
+151,admin0,Qatar,Qatar,Qatar,True
+152,admin0,Saudi Arabia,Saudi Arabia,Saudi Arabia,True
+522,admin0,Sudan,Sudan,Sudan,True
+153,admin0,Syria,Syria,Syria,True
+154,admin0,Tunisia,Tunisia,Tunisia,True
+155,admin0,Turkey,Turkey,Turkey,True
+156,admin0,United Arab Emirates,United Arab Emirates,UAE,True
+157,admin0,Yemen,Yemen,Yemen,True
+158,superregion,South Asia,South Asia,S Asia,True
+159,region,South Asia,South Asia,S Asia,True
+161,admin0,Bangladesh,Bangladesh,Bangladesh,True
+162,admin0,Bhutan,Bhutan,Bhutan,True
+163,admin0,India,India,India,True
+164,admin0,Nepal,Nepal,Nepal,True
+165,admin0,Pakistan,Pakistan,Pakistan,True
+166,superregion,Sub-Saharan Africa,Sub-Saharan Africa,Sub-Sah Africa,True
+192,region,Southern Sub-Saharan Africa,Southern Sub-Saharan Africa,S Sub-Sah Africa,True
+193,admin0,Botswana,Botswana,Botswana,True
+194,admin0,Lesotho,Lesotho,Lesotho,True
+195,admin0,Namibia,Namibia,Namibia,True
+196,admin0,South Africa,South Africa,S Africa,True
+197,admin0,Swaziland,Swaziland,Swaziland,True
+198,admin0,Zimbabwe,Zimbabwe,Zimbabwe,True
+199,region,Western Sub-Saharan Africa,Western Sub-Saharan Africa,W Sub-Sah Africa,True
+200,admin0,Benin,Benin,Benin,True
+201,admin0,Burkina Faso,Burkina Faso,Burkina Faso,True
+202,admin0,Cameroon,Cameroon,Cameroon,True
+203,admin0,Cape Verde,Cape Verde,Cape Verde,True
+204,admin0,Chad,Chad,Chad,True
+205,admin0,Cote d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,True
+206,admin0,The Gambia,The Gambia,Gambia,True
+207,admin0,Ghana,Ghana,Ghana,True
+208,admin0,Guinea,Guinea,Guinea,True
+209,admin0,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,True
+210,admin0,Liberia,Liberia,Liberia,True
+211,admin0,Mali,Mali,Mali,True
+212,admin0,Mauritania,Mauritania,Mauritania,True
+213,admin0,Niger,Niger,Niger,True
+214,admin0,Nigeria,Nigeria,Nigeria,True
+215,admin0,Sao Tome and Principe,Sao Tome and Principe,Sao Tome Principe,True
+216,admin0,Senegal,Senegal,Senegal,True
+217,admin0,Sierra Leone,Sierra Leone,Sierra Leone,True
+218,admin0,Togo,Togo,Togo,True
+174,region,Eastern Sub-Saharan Africa,Eastern Sub-Saharan Africa,E Sub-Sah Africa,True
+175,admin0,Burundi,Burundi,Burundi,True
+176,admin0,Comoros,Comoros,Comoros,True
+177,admin0,Djibouti,Djibouti,Djibouti,True
+178,admin0,Eritrea,Eritrea,Eritrea,True
+179,admin0,Ethiopia,Ethiopia,Ethiopia,True
+180,admin0,Kenya,Kenya,Kenya,True
+181,admin0,Madagascar,Madagascar,Madagascar,True
+182,admin0,Malawi,Malawi,Malawi,True
+184,admin0,Mozambique,Mozambique,Mozambique,True
+185,admin0,Rwanda,Rwanda,Rwanda,True
+187,admin0,Somalia,Somalia,Somalia,True
+435,admin0,South Sudan,South Sudan,S Sudan,True
+189,admin0,Tanzania,Tanzania,Tanzania,True
+190,admin0,Uganda,Uganda,Uganda,True
+191,admin0,Zambia,Zambia,Zambia,True
+167,region,Central Sub-Saharan Africa,Central Sub-Saharan Africa,C Sub-Sah Africa,True
+168,admin0,Angola,Angola,Angola,True
+169,admin0,Central African Republic,Central African Republic,C African Rep,True
+170,admin0,Congo,Congo,Congo,True
+171,admin0,Democratic Republic of the Congo,Democratic Republic of the Congo,Congo DR,True
+172,admin0,Equatorial Guinea,Equatorial Guinea,Eq Guinea,True
+173,admin0,Gabon,Gabon,Gabon,True
